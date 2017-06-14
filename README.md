@@ -46,3 +46,4 @@ This repository contains several branches based on the tutorial:
   4. `dimensions`
   5. `layout`
   5. `text_input`
+  6. `touch`
