@@ -1,4 +1,4 @@
-# Props Branch
+# State Branch
 
 This branch contain demo using React Native `state`.
 
