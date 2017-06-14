@@ -26,7 +26,7 @@ Then run the following commands to create a new React Native project called
 
 **Tips running android virtual device without Android Studio:**
 
-Assuming you already create virtual device on Android studio, run this command 
+Assuming you already created virtual device on Android studio, run this command 
 (windows):
 
     $ cd %ANDROID_HOME%\tools
@@ -35,3 +35,9 @@ Assuming you already create virtual device on Android studio, run this command
 You can get the names of the emulator from the list:
 
     $ bin\avdmanager list avd
+
+-----------
+
+This repository contains several branches based on the tutorial:
+
+  1. `props`
