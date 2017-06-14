@@ -20,6 +20,10 @@ Then run the following commands to create a new React Native project called
     an error: No android device found
   * If everything works, you should see starter app on your virtual device.
 
+<div style="text-align: center; margin-bottom: 16px">
+  <img src="https://user-images.githubusercontent.com/407778/27115649-aebf991a-50fe-11e7-8b7c-c9fd64b967e2.png" width="250">
+</div>
+
 **Tips running android virtual device without Android Studio:**
 
 Assuming you already create virtual device on Android studio, run this command 
